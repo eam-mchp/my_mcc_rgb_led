@@ -48,6 +48,10 @@
 /*
                          Main application
  */
+
+// pointless variable
+int n = 1;
+
 int main(void)
 {
     // initialize the device
